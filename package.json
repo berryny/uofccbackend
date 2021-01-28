@@ -1,0 +1,24 @@
+{
+  "name": "uofccbackend",
+  "version": "1.0.0",
+  "description": "backend service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berryny/uofccbackend.git"
+  },
+  "keywords": [
+    "express",
+    "mongodb"
+  ],
+  "author": "Judith Desire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berryny/uofccbackend/issues"
+  },
+  "homepage": "https://github.com/berryny/uofccbackend#readme"
+}
